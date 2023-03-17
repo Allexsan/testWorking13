@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="question_number">question number</string>
+    <string name="question_text">question text</string>
+    <string name="answer_1">answer 1</string>
+    <string name="answer_2">answer 2</string>
+    <string name="answer_3">answer 3</string>
+    <string name="answer_4">answer 4</string>
+    <string name="question_number_ui">Вопрос %1$d из %2$d</string>
+    <string name="game_over">Игра окончена!!!</string>
+    <string name="game_result">Вы ответили на %1d из %2$d вопросов</string>
+    <string name="game_rezult_proc">%1$d%%  Правильно, %2$d%% Не правильных</string>
+    <string name="Ocenka_2">Ваша оценка 2</string>
+    <string name="Ocenka_3">Ваша оценка 3</string>
+    <string name="Ocenka_4">Ваша оценка 4</string>
+    <string name="Ocenka_5">Ваша оценка 5</string>
+</resources>
